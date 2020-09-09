@@ -1,6 +1,6 @@
 # Multi Agent Deep Reinforcement Learning
  
-Our main goal in this work is to choose a simple game environment so that we can evaluate the performance of multi-agent reinforce- ment learning on it.
+Our main goal in this work is to choose a simple game environment so that we can evaluate the performance of multi-agent reinforcement learning on it.
 For this purpose, we picked the pursuit-evasion problem. We will refer to the two types of agents as thief and police. The police are attempting to catch the thief and the thief is trying to escape.
 Since we limit the problem to a discrete state space, the police receive a reward anytime they occupy the same grid cell as a thief. Each of the agents can go to the 8 houses around them or stay in place and do not move.
 <figure>
