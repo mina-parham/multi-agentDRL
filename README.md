@@ -26,4 +26,4 @@ Figure 2 shows the accuracy of the model and Figure 3 shows the average reward o
 
 
 you can find more about this research here :
-ArXiv: http://arxiv.org/abs/0803.0476
+https://github.com/mina-parham/multi-agentDRL/blob/master/Multi-Agent%20DRL.pdf
