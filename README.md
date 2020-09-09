@@ -1,5 +1,4 @@
 # Multi Agent Deep Reinforcement Learning
- - implemented as solution to one of problems of Fanavard Data Minig challanege 
  
 Our main goal in this work is to choose a simple game environment so that we can evaluate the performance of multi-agent reinforce- ment learning on it.
 For this purpose, we picked the pursuit-evasion problem. We will refer to the two types of agents as thief and police. The police are attempting to catch the thief and the thief is trying to escape.
